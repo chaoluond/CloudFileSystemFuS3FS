@@ -20,6 +20,6 @@ fusermount -u YOUR/LOCAL/FOLDER
 
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/16144725/24264593/4f1285a8-0fd7-11e7-8a46-dd2eb93db166.png" width="200"/>
-  <img src="https://cloud.githubusercontent.com/assets/16144725/24264604/53aba888-0fd7-11e7-9395-b25d6c12d6fe.png" width="200"/>
+  <img src="https://cloud.githubusercontent.com/assets/16144725/24264593/4f1285a8-0fd7-11e7-8a46-dd2eb93db166.png" width="350"/>
+  <img src="https://cloud.githubusercontent.com/assets/16144725/24264604/53aba888-0fd7-11e7-9395-b25d6c12d6fe.png" width="350"/>
 </p>
